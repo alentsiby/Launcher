@@ -259,16 +259,7 @@ nav ul li .dropdown a:hover {
   margin-bottom: 14px;
   font-size: 1rem;
 }
-.social-links a {
-  font-size: 1.8rem;
-  margin-right: 16px;
-  color: var(--primary);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-.social-links a:hover {
-  color: var(--accent);
-}
+
 /* Footer */
 footer {
   background: var(--footer-bg);
